@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Kinesys Hanoi.sh
+# Nephael Hanoi.sh
 
 hanoi() {
     local -i n = $1
